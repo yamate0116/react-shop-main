@@ -117,6 +117,7 @@ class ProductDetails extends Component {
                                                             className="simpleLens-thumbnail-wrapper" href="javascript:void(0)">
                                                             <img width="45" height="55" src={"Content/img/" + this.state.productDetails.imgurl} />
                                                         </a>
+        //sample
                                                         {this.state.productDetails.productImages ? (
                                                             this.state.productDetails.productImages.map(p => {
                                                                 return (
