@@ -3,9 +3,9 @@ import './App.css';
 import Loader from './Containers/Loader';
 import Header from './Containers/Header';
 import Menu from './Containers/Menu';
-import Footer from './Containers/Footer';
-import Main from './Containers/Main';
 
+import Main from './Containers/Main';
+import Footer from './Containers/Footer';
 class App extends Component {
   render() {
     return (
