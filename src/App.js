@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <Loader />
-        <a className="scrollToTop" href="javascript:void(0)"><i className="fa fa-chevron-up"></i></a>
+        <a className="scrollToTop" href="javascript:void(0)"><i className="fa fa-chevron-up">ok</i></a>
         <Header />
         <Menu />
         <main>
